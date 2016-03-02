@@ -1,0 +1,12 @@
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\bin\Debug\Compi2_Practica1_1s2016.exe.config
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\bin\Debug\Compi2_Practica1_1s2016.exe
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\bin\Debug\Compi2_Practica1_1s2016.pdb
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.csprojResolveAssemblyReference.cache
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.Form1.resources
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.Properties.Resources.resources
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.csproj.GenerateResource.Cache
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.exe
+c:\users\mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.pdb
+C:\Users\Mac\Documents\Visual Studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.EditorTexto.resources
+C:\Users\Mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.Copia_de_EditorTexto.resources
+C:\Users\Mac\documents\visual studio 2012\Projects\Compi2_Practica1_1s2016\Compi2_Practica1_1s2016\obj\Debug\Compi2_Practica1_1s2016.Copia_de_Copia_de_EditorTexto.resources
